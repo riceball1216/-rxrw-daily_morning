@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  send_message:
+  send_message:7.30
     runs-on: ubuntu-latest
     name: send morning to your girlfriend
 
